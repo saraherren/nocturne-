@@ -14,6 +14,5 @@ This project is based on the idea that music can influence attention and cogniti
 
 Reducing mind-wandering through structured auditory input
 Avoiding language interference (instrumental focus)
-Modulating arousal levels depending on tempo and dynamics
 
 Note: Effects of music on focus vary by individual and task type.
