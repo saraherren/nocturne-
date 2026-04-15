@@ -13,6 +13,7 @@ Lets users explore different “focus modes” based on musical style and intens
 This project is based on the idea that music can influence attention and cognitive state by:
 
 Reducing mind-wandering through structured auditory input
+
 Avoiding language interference (instrumental focus)
 
 Note: Effects of music on focus vary by individual and task type.
